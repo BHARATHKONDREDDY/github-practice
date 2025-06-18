@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CustomerSupportTS1.Models
+namespace CustomerSupportTS1.services
 {
-    internal class Class1
+    internal class Class2
     {
     }
 }

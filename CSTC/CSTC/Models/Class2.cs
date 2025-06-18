@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSTC.Models
+namespace CustomerSupportTS1.Models
 {
     internal class Class2
     {
